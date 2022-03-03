@@ -1,0 +1,8 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Name: Patient X
+
+Day Fever/Chills | Loss of Taste/Smell | Cough | Shortness of Breath | Fatigue | Body Aches | Headache | Sore Throat | Congestion | Nausea | Diarrhea | Body Temperature
+ 2      No                 No            Yes             Yes             No         No          Yes          No           Yes         No       No            33øC
+
+Status: SYMPTOMATIC
